@@ -226,7 +226,7 @@
    <point/>
   </object>
  </objectgroup>
- <objectgroup id="7" name="collision">
+ <objectgroup id="7" name="collision" visible="0">
   <object id="3" name="rect_3" x="191.818" y="93.2727" width="48.1818" height="18.9091"/>
   <object id="4" name="rect_3" x="192.091" y="61.3636" width="64" height="2.81818"/>
   <object id="6" name="polygone_3" x="240.364" y="112.182">
