@@ -15,7 +15,7 @@ class Game:
 
 
          #Exemple de chargement de carte
-         self.tmx_data = pytmx.util_pygame.load_pygame('data/carte/test2.tmx')
+         self.tmx_data = pytmx.util_pygame.load_pygame('data/carte/test.tmx')
          self.map_data = pyscroll.data.TiledMapData(self.tmx_data)
          self.map_layer = pyscroll.orthographic.BufferedRenderer(self.map_data,self.screen.get_size())
          self.map_layer.zoom = 3
