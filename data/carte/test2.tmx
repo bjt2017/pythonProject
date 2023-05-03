@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="15" nextobjectid="78">
- <tileset firstgid="1" source="../../../../OneDrive/Bureau/Projet Farmer-Zombie/test/spr_tileset_sunnysideworld_16px.tsx"/>
+ <tileset firstgid="1" source="../../../../OneDrive/Bureau/cours/Projet Farmer-Zombie/test/spr_tileset_sunnysideworld_16px.tsx"/>
  <tileset firstgid="4097" source="../assets/tiled/spr_deco_tree_01_strip4.tsx"/>
  <layer id="1" name="eau" width="30" height="20">
   <data encoding="csv">
